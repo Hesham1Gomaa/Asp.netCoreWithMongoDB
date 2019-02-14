@@ -1,0 +1,11 @@
+E:\HeshamG\Projects\free\gitRe\Asp.NetCoreWithMongoDB\Asp.NetCoreWithMongoDB\bin\Debug\netcoreapp2.0\Asp.NetCoreWithMongoDB.deps.json
+E:\HeshamG\Projects\free\gitRe\Asp.NetCoreWithMongoDB\Asp.NetCoreWithMongoDB\bin\Debug\netcoreapp2.0\Asp.NetCoreWithMongoDB.runtimeconfig.json
+E:\HeshamG\Projects\free\gitRe\Asp.NetCoreWithMongoDB\Asp.NetCoreWithMongoDB\bin\Debug\netcoreapp2.0\Asp.NetCoreWithMongoDB.runtimeconfig.dev.json
+E:\HeshamG\Projects\free\gitRe\Asp.NetCoreWithMongoDB\Asp.NetCoreWithMongoDB\bin\Debug\netcoreapp2.0\Asp.NetCoreWithMongoDB.dll
+E:\HeshamG\Projects\free\gitRe\Asp.NetCoreWithMongoDB\Asp.NetCoreWithMongoDB\obj\Debug\netcoreapp2.0\Asp.NetCoreWithMongoDB.csprojResolveAssemblyReference.cache
+E:\HeshamG\Projects\free\gitRe\Asp.NetCoreWithMongoDB\Asp.NetCoreWithMongoDB\obj\Debug\netcoreapp2.0\Asp.NetCoreWithMongoDB.csproj.CoreCompileInputs.cache
+E:\HeshamG\Projects\free\gitRe\Asp.NetCoreWithMongoDB\Asp.NetCoreWithMongoDB\obj\Debug\netcoreapp2.0\Asp.NetCoreWithMongoDB.AssemblyInfoInputs.cache
+E:\HeshamG\Projects\free\gitRe\Asp.NetCoreWithMongoDB\Asp.NetCoreWithMongoDB\obj\Debug\netcoreapp2.0\Asp.NetCoreWithMongoDB.AssemblyInfo.cs
+E:\HeshamG\Projects\free\gitRe\Asp.NetCoreWithMongoDB\Asp.NetCoreWithMongoDB\bin\Debug\netcoreapp2.0\Asp.NetCoreWithMongoDB.pdb
+E:\HeshamG\Projects\free\gitRe\Asp.NetCoreWithMongoDB\Asp.NetCoreWithMongoDB\obj\Debug\netcoreapp2.0\Asp.NetCoreWithMongoDB.dll
+E:\HeshamG\Projects\free\gitRe\Asp.NetCoreWithMongoDB\Asp.NetCoreWithMongoDB\obj\Debug\netcoreapp2.0\Asp.NetCoreWithMongoDB.pdb
